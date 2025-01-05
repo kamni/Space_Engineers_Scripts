@@ -2,5 +2,7 @@
 *.suo
 
 #directories
+.venv/
 *bin/
+docs/build/
 *obj/
