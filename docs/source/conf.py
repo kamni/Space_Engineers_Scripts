@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Space Engineers Scripts'
-copyright = '2025, Will Cole, J Leadbetter'
+copyright = '2025 Will Cole'
 author = 'Will Cole, J Leadbetter'
 
 # -- General configuration ---------------------------------------------------
