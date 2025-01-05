@@ -9,6 +9,10 @@ Check out my Steam Workshop page:
 
 `SJ_Omega <https://steamcommunity.com/profiles/76561198025391137/myworkshopfiles/>`_
 
+And documentation for the scripts:
+
+`Github Pages`_.
+
 
 ***********
 Development
@@ -37,4 +41,7 @@ To build the documentation:
    sphinx-build -M html docs/source/ docs/build/
    cp -r docs/build/* docs/
 
-After you push the docs to github, they should be available as github pages.
+After you push the docs to github, they should be available as
+`Github Pages`_.
+
+.. _Github Pages: https://kamni.github.io/Space_Engineers_Scripts/
