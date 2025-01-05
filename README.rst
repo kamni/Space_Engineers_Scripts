@@ -6,12 +6,9 @@ Scripts I've written for the Space Engineers in-game API.
 Many are incorporated into the ships I build.
 
 Check out my Steam Workshop page:
-
 `SJ_Omega <https://steamcommunity.com/profiles/76561198025391137/myworkshopfiles/>`_
 
-And documentation for the scripts:
-
-`Github Pages`_.
+Documentation for the scripts is hosted on `Github Pages`_.
 
 
 ***********
