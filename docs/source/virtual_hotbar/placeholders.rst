@@ -1,7 +1,6 @@
-############
-Placeholders
-############
-
 .. _placeholders:
+
+Placeholders
+============
 
 TBD

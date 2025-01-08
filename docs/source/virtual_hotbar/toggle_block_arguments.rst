@@ -1,7 +1,6 @@
-######################
-Toggle Block Arguments
-######################
-
 .. _toggle-block-arguments:
+
+Toggle Block Arguments
+======================
 
 TBD

@@ -1,7 +1,6 @@
-##############
-Screen Mirrors
-##############
-
 .. _screen-mirrors:
+
+Screen Mirrors
+==============
 
 TBD

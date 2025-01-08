@@ -1,8 +1,7 @@
 .. _setup:
 
-#####
 Setup
-#####
+=====
 
 1. Load script onto a programmable block on the desired ship or station.
 2. Rename block that contains screens with the tag [VHB]
@@ -29,4 +28,6 @@ Setup
 
    Control block can also be separate from LCD block.
 
-   See the :ref:`Commands <commands>` section button-press and page arguments.
+   .. seealso::
+
+      See the available `hotbar commands <commands.html#hotbar-commands>`_.

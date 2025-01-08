@@ -1,7 +1,8 @@
 .. Space Engineers Scripts documentation master file
 
+#######################
 Space Engineers Scripts
-=======================
+#######################
 
 Custom scripts for the
 `Space Engineers <https://store.steampowered.com/app/244850/Space_Engineers/>`_
@@ -15,4 +16,6 @@ page for SJ_Omega.
    :maxdepth: 1
    :caption: Available Scripts
 
+   pressure_chief/index
+   usap/index
    virtual_hotbar/index

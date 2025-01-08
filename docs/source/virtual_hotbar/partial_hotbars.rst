@@ -1,7 +1,6 @@
-###############
-Partial Hotbars
-###############
-
 .. _partial-hotbars:
+
+Partial Hotbars
+===============
 
 TBD

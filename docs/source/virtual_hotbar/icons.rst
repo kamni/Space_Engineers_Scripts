@@ -1,7 +1,6 @@
-#####
-Icons
-#####
-
 .. _icons:
+
+Icons
+=====
 
 TBD

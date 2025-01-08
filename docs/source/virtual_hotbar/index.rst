@@ -1,6 +1,8 @@
-##############
+.. _virtual-hotbar-script:
+
+**************
 Virtual Hotbar
-##############
+**************
 
 .. image:: images/virtual-hotbar-thumbnail.jpeg
    :width: 100%

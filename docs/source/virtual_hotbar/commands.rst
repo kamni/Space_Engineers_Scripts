@@ -1,28 +1,18 @@
 .. _commands:
 
-########
 Commands
-########
-
-The following commands can be run directly from the programmable block,
-but preferably should be mapped to the hotbar of a command block
-(i.e. button panel/cockpit).
+========
 
 .. note::
 
-   Commands are not case-sensitive;
-   however arguments to the commands (e.g., grid ID) may be case-sensitive.
+   Commands are not case-sensitive, unless specified otherwise.
 
-.. _refresh-command:
+.. _hotbar-commands:
 
-REFRESH
-  *Usage:*
+Hotbar Commands
+---------------
 
-  .. code::
-
-     refresh
-
-  Rebuilds the program, updating LCD surfaces.
+The following commands can be mapped to the hotbar of a command block:
 
 .. _button-command:
 
@@ -75,6 +65,25 @@ NEXT_PAGE
 
   Rolls over to first page if currently on the last page. 
 
+.. _utility-commands:
+
+Utility Commands
+----------------
+
+The following commands can be run directly from the programmable block to
+update the interface:
+
+.. _refresh-command:
+
+REFRESH
+  *Usage:*
+
+  .. code::
+
+     refresh
+
+  Rebuilds the program, updating LCD surfaces.
+
 .. _set-grid-id-command:
 
 SET_GRID_ID
@@ -82,16 +91,15 @@ SET_GRID_ID
 
   .. code::
 
-     set_grid_id <optional tag>
+     set_grid_id <optional gridID>
 
-  Sets unique tag for the grid.
+  Sets unique tag for the grid. The tag is case-sensitive.
 
-  GridID is used to distinguish between other ships/stations when docking with
-  merge blocks.
+  ``gridID`` is used to distinguish between other ships/stations when docking
+  with merge blocks.
+  If not specified, grabs the current in-game grid ID, which may be a GUID.
 
-  Attribute is shared with other Laika Softworks scripts like Pressure Chief
-  and USAP.
-
+  Attribute is shared with other Laika Softworks scripts like
+  `Pressure Chief <../pressure_chief/index.html>`_ and
+  `USAP <../usap/index.html>`_.
   Command can be called from these other scripts as well.
-
-  Optional tag allows you to specify the GridID (text).

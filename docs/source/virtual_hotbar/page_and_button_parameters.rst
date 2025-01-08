@@ -1,7 +1,6 @@
-##########################
-Page and Button Parameters
-##########################
-
 .. _page-and-button-parameters:
+
+Page and Button Parameters
+==========================
 
 TBD

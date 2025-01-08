@@ -1,7 +1,6 @@
-###############
-Tips and Tricks
-###############
-
 .. _tips-and-tricks:
+
+Tips and Tricks
+===============
 
 TBD
