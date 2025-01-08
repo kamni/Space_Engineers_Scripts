@@ -1,11 +1,18 @@
-.. Space Engineers Scripts documentation master file, created by
-   sphinx-quickstart on Sun Jan  5 17:23:34 2025.
+.. Space Engineers Scripts documentation master file
 
 Space Engineers Scripts
 =======================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+Custom scripts for the
+`Space Engineers <https://store.steampowered.com/app/244850/Space_Engineers/>`_
+PC game.
 
-   virtual_hotbar/intro
+Please check out the
+`Steam Workshop <https://steamcommunity.com/profiles/76561198025391137/myworkshopfiles/>`_
+page for SJ_Omega.
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Available Scripts
+
+   virtual_hotbar/index

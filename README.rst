@@ -27,7 +27,7 @@ To install Sphinx with Python 3:
 
    python3 -m venv .venv
    source .venv/bin/activate
-   python3 -m pip install sphinx==8.1.3
+   pip install sphinx==8.1.3 sphinx-rtd-theme==3.0.2
 
 The `RST <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_
 files are located in ``docs/source``.
@@ -41,4 +41,4 @@ To build the documentation:
 After you push the docs to github, they should be available as
 `Github Pages`_.
 
-.. _Github Pages: https://kamni.github.io/Space_Engineers_Scripts/
+.. _Github Pages: https://madbillyblack.github.io/Space_Engineers_Scripts/

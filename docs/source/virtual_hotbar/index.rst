@@ -19,11 +19,12 @@ You can download the Virtual Hotbar script from the
 `Steam Workshop <https://steamcommunity.com/sharedfiles/filedetails/?id=3351378956>`_.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
    setup
    commands
+
+..   commands
    menu_parameters
    page_and_button_parameters
    toggle_block_arguments
