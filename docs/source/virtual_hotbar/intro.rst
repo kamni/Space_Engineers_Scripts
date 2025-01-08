@@ -22,13 +22,13 @@ You can download the Virtual Hotbar script from the
    :maxdepth: 2
    :caption: Contents:
 
-   virtual_hotbar/setup
-   virtual_hotbar/commands
-   virtual_hotbar/menu_parameters
-   virtual_hotbar/page_and_button_parameters
-   virtual_hotbar/toggle_block_arguments
-   virtual_hotbar/placeholders
-   virtual_hotbar/icons
-   virtual_hotbar/partial_hotbars
-   virtual_hotbar/screen_mirrors
-   virtual_hotbar/tips_and_tricks
+   setup
+   commands
+   menu_parameters
+   page_and_button_parameters
+   toggle_block_arguments
+   placeholders
+   icons
+   partial_hotbars
+   screen_mirrors
+   tips_and_tricks
