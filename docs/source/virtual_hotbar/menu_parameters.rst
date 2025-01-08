@@ -36,4 +36,7 @@ block, under the header *[Virtual Hotbar]*.
   * CENTER
 
 **Blink Cycle** - Approximate time (in seconds) of 1 cycle for blinking buttons.
-      See section BUTTON PARAMETERS: Blink Length.
+  .. seealso::
+
+     See the `Blink Length` option in the
+     `Page and Button Parameters <page_and_button_parameters.html>`_ section.
