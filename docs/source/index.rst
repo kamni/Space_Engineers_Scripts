@@ -8,4 +8,4 @@ Space Engineers Scripts
    :maxdepth: 2
    :caption: Contents:
 
-   virtual_hotbar
+   virtual_hotbar/intro
