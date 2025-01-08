@@ -1,8 +1,8 @@
+.. _setup:
+
 #####
 Setup
 #####
-
-.. _setup:
 
 1. Load script onto a programmable block on the desired ship or station.
 2. Rename block that contains screens with the tag [VHB]

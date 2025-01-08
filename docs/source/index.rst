@@ -12,7 +12,7 @@ Please check out the
 page for SJ_Omega.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Available Scripts
 
    virtual_hotbar/index
