@@ -23,8 +23,6 @@ You can download the Virtual Hotbar script from the
 
    setup
    commands
-
-..   commands
    menu_parameters
    page_and_button_parameters
    toggle_block_arguments
