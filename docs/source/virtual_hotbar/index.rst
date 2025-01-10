@@ -20,6 +20,18 @@ is working.
 You can download the Virtual Hotbar script from the
 `Steam Workshop <https://steamcommunity.com/sharedfiles/filedetails/?id=3351378956>`_.
 
+.. TODO - add more example images to this page
+
+.. TODO - add more example images to various parameter pages
+
+.. TODO - we need a quickstart
+
+.. TODO - define menu block (it's a screen)
+
+.. TODO - create and reference a ship that has multiple configurations
+
+.. TODO - glossary of terms and links to glossary within text
+
 .. toctree::
    :maxdepth: 1
 
